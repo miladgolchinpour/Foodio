@@ -1,0 +1,12 @@
+/* 
+  Localization.strings
+  Foodio
+
+  Created by Milad Golchinpour on 7/27/21.
+  Copyright © 2021 Milad Golchinpour. All rights reserved.
+*/
+
+// Note: Development language strings are automatically extracted from code.
+
+// Lorem ipsum in English
+"lorem.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat, ligula ac sagittis hendrerit, metus lectus molestie est, eget fermentum massa ipsum a purus. Suspendisse potenti. Fusce rutrum nibh quam, at varius ante commodo vel. Morbi eu tempus quam. Integer interdum risus non dolor efficitur, a imperdiet nunc bibendum.";

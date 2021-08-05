@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="en.lproj/Foodio--iOS--InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fa">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A5154h"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Foodio</source>
+        <target>فودیو</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Foodio</source>
+        <target>فودیو</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Foodio--macOS--InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fa">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A5154h"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Foodio</source>
+        <target>فودیو</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="fa">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A5154h"/>
+    </header>
+    <body>
+      <trans-unit id="$%lld" xml:space="preserve">
+        <source>$%lld</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%.1f" xml:space="preserve">
+        <source>%.1f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld%%" xml:space="preserve">
+        <source>%lld%%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Added!" xml:space="preserve">
+        <source>Added!</source>
+        <target>اضافه شد!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available" xml:space="preserve">
+        <source>Available</source>
+        <target>موجود</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Back" xml:space="preserve">
+        <source>Back</source>
+        <target>برگشت</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Back to app" xml:space="preserve">
+        <source>Back to app</source>
+        <target>برشت به خانه</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>بازگشت</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cart is empty!" xml:space="preserve">
+        <source>Cart is empty!</source>
+        <target>سبد خرید خالی است</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Checkout" xml:space="preserve">
+        <source>Checkout</source>
+        <target>تسويه حساب</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="City" xml:space="preserve">
+        <source>City</source>
+        <target>شهر</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Colories" xml:space="preserve">
+        <source>Colories</source>
+        <target>کالری</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target>ادامه</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DRINKS" xml:space="preserve">
+        <source>DRINKS</source>
+        <target>نوشیدنی ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>حذف</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delivery Time" xml:space="preserve">
+        <source>Delivery Time</source>
+        <target>زمان تحویل</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Description" xml:space="preserve">
+        <source>Description</source>
+        <target>توضيحات</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Drinks" xml:space="preserve">
+        <source>Drinks</source>
+        <target>نوشیدنی ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOODS" xml:space="preserve">
+        <source>FOODS</source>
+        <target>غذا ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>مورد علاقه ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Food Nutrition" xml:space="preserve">
+        <source>Food Nutrition</source>
+        <target>جدول غذایی</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Foodio" xml:space="preserve">
+        <source>Foodio</source>
+        <target>فوديو</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Foodio App" xml:space="preserve">
+        <source>Foodio App</source>
+        <target>اپ فوديو</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Foods" xml:space="preserve">
+        <source>Foods</source>
+        <target>غذا ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Full name" xml:space="preserve">
+        <source>Full name</source>
+        <target>نام و نام خانوادگی</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="History" xml:space="preserve">
+        <source>History</source>
+        <target>تاریخچه</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Information" xml:space="preserve">
+        <source>Information</source>
+        <target>مشخصات</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Let's add items..." xml:space="preserve">
+        <source>Let's add items...</source>
+        <target>آیتمی اضافه کنید...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Features" xml:space="preserve">
+        <source>New Features</source>
+        <target>قابلیت های جديد</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No favorite item founded!" xml:space="preserve">
+        <source>No favorite item founded!</source>
+        <target>مورد علاقه ای وجود ندارد.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No orders recorded" xml:space="preserve">
+        <source>No orders recorded</source>
+        <target>تاریخچه خالي است</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>خوب است</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order" xml:space="preserve">
+        <source>Order</source>
+        <target>سفارش</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order Now" xml:space="preserve">
+        <source>Order Now</source>
+        <target>سفارش دادن</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order code : %@" xml:space="preserve">
+        <source>Order code : %@</source>
+        <target>کد سفارش : %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order date : %@" xml:space="preserve">
+        <source>Order date : %@</source>
+        <target>تاريخ سفارش : %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Review" xml:space="preserve">
+        <source>Review</source>
+        <target>چک کردن</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show History" xml:space="preserve">
+        <source>Show History</source>
+        <target>مشاهده تاریخچه</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Street Address" xml:space="preserve">
+        <source>Street Address</source>
+        <target>آدرس خیابان</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Submit" xml:space="preserve">
+        <source>Submit</source>
+        <target>ثبت</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Successfuly added to cart" xml:space="preserve">
+        <source>Successfuly added to cart</source>
+        <target>به موفقیت به سبد خرید اضافه شد</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Take few minutes and deliver items..." xml:space="preserve">
+        <source>Take few minutes and deliver items...</source>
+        <target>چند دقيقه صبر کنید و سفارش خود را تحویل بگیرید</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total: $%.2f" xml:space="preserve">
+        <source>Total: $%.2f</source>
+        <target>جمع هزینه : $%.2f</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unvailable" xml:space="preserve">
+        <source>Unvailable</source>
+        <target>موجود نيست</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome to" xml:space="preserve">
+        <source>Welcome to</source>
+        <target>خوش آمدید به</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your Order&#10;Successfully Submited" xml:space="preserve">
+        <source>Your Order
+Successfully Submited</source>
+        <target>سفارش شما با موفقات ثبت شد</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zip code" xml:space="preserve">
+        <source>Zip code</source>
+        <target>کد پستی</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="add a tip?" xml:space="preserve">
+        <source>add a tip?</source>
+        <target>اضافه کردن انعام؟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="detail" xml:space="preserve">
+        <source>detail</source>
+        <target>مشخصات</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="devlivery time" xml:space="preserve">
+        <source>devlivery time</source>
+        <target>زمان تحویل</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="drinks" xml:space="preserve">
+        <source>drinks</source>
+        <target>نوشیدنی ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="foods" xml:space="preserve">
+        <source>foods</source>
+        <target>غذا ها</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="tip" xml:space="preserve">
+        <source>tip</source>
+        <target>انعام</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodioWidgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fa">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A5154h"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>FoodioWidgets</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>FoodioWidgetsExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2021 Milad Golchinpour. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodioWidgets/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="fa">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A5154h"/>
+    </header>
+    <body>
+      <trans-unit id="Colories: 123" xml:space="preserve">
+        <source>Colories: 123</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Culver's ButterBurger" xml:space="preserve">
+        <source>Culver's ButterBurger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Food" xml:space="preserve">
+        <source>New Food</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show new foods in a widget" xml:space="preserve">
+        <source>Show new foods in a widget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="newest" xml:space="preserve">
+        <source>newest</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

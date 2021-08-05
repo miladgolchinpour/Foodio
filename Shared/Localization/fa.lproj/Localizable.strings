@@ -1,0 +1,111 @@
+/* 
+  Localization.strings
+  Foodio
+
+  Created by Milad Golchinpour on 7/27/21.
+  Copyright © 2021 Milad Golchinpour. All rights reserved.
+*/
+
+// MARK: - Tabs and title of navigations
+"Foods" = "غذا";
+"Drinks" = "نوشیدنی";
+"Order" = "سفارش";
+"Favorites" = "مورد علاقه";
+
+// MARK: - Food names
+"Burger King Whopper" = "هوپر کینگ برگر";
+"Five Guys Cheeseburger" = "پنچ گایز چیز برگر";
+"KFC Original Recipe Chicken" = "مرغ سوخاری کی اف سی";
+"White Castle Sliders" = "کستل سفید اسلایدر";
+"Arby's Roast Beef Sandwich" = "ساندویچ بیف راست اربی";
+"Chick-fil-A Chicken Sandwich" = "ساندویچ کامل مرغ";
+"Culver's ButterBurger" = "کلور باتر برگر";
+"Panda Express Kung Pao Chicken" = "مرغ کونگ پاندا";
+"Subway Chicken & Bacon Ranch Melt" = "ساندویچ مرغ بیکن و سبزیجات";
+"Whataburger Original Whataburger" = "واتابرگر امریکایی اورجینال";
+"Popeyes Chicken Sandwich" = "ساندویچ مرغ پاپیوس";
+"Little Caesars Crazy Bread" = "پیتزا پپرونی ویژه";
+"Domino's Extravaganza Pizza" = "پیتزا بزرگ دامینو";
+"Jack in the Box Tacos" = "سمبوسه جک باکس تاکس";
+
+// MARK: - Drink names
+"COSMOPOLITAN" = "کاسپومولیشن";
+"TOM COLLINS" = "تام کالینس لیمو";
+"BRANDY CRUSTA" = "براندی کراستا";
+"AMERICANO" = "آمریکانو";
+"SAZERAC" = "ساازراک";
+"DARK ’N’ STORMY" = "دارک استوری";
+"MARGARITA" = "مارگاریتا";
+"MOJITO" = "موهیتو";
+"AVIATION" = "آویشن";
+
+// MARK: - Order tab strings
+"Cart is empty!" = "سبد خرید خالی است";
+"Let's add items..." = "اضافه کردن آیتم";
+"Show History" = "مشاهده تاریخچه خرید";
+"History" = "تاریخچه";
+
+// MARK: - Favorites tab strings
+"Favorites" = "مورد علاقه ها";
+"No favorite item founded!" = "آیتم مورد علاقه ای پیدا نشد!";
+"FOODS" = "غذا ها";
+"DRINKS" = "نوشیدنی ها";
+
+// MARK: - Order history sheet string
+"No orders recorded" = "خریدی یافت نشد";
+"Information" = "اطلاعات";
+"Detail" = "مشخصات";
+"Order date : %@" = "تاریخ سفارش : %@";
+"Order code :\n%@" = "کد سفارش :\n%@";
+
+// MARK: - Food and Drink detail screen strings
+"Available" = "موجود";
+"Unavailable" = "ناموجود";
+"Description" = "توضیحات";
+"Food Nutrition" = "جدول غذایی";
+"fiber" = "فیبر";
+"protein" = "پروتئین";
+"fat" = "چربی";
+"colories" = "کالری";
+"carbs" = "کربوهیدرات";
+"Colories" = "کالری";
+"Add to Cart" = "افزودن به سبد خرید";
+"Added!" = "افزوده شد!";
+"Successfuly added to cart" = "با موفقیت به سبد خرید اضافه شد";
+
+// MARK: - Checkout view strings
+"Checkout" = "تسویه حساب";
+"Delivery time" = "زمان تحویل";
+"Delivery Time" = "زمان تحویل";
+"Add a tip?" = "مایل به پرداخت انعام هستید؟";
+"Now" = "هم اکنون";
+"Tonight" = "امشب";
+"Full name" = "نام و نام خانوادگی";
+"City" = "شهر";
+"Zip code" = "کد پستی";
+"Street Address" = "خیابان";
+"Submit" = "ثبت سفارش";
+
+// MARK: - Checkout review view strings
+"Review" = "تائید سفارش";
+"Order items" = "آیتم های سفارش";
+"Order Now" = "سفارش دادن";
+
+// MARK: - Success order submited view strings
+"Your Order\nSuccessfully Submited" = "سفارش شما\nبا موفقیت ثبت شد.";
+"Back to app" = "برگشت به خانه";
+
+// MARK: - App strings
+"Foodio" = "فودیو";
+"Back" = "بازگشت";
+"Cancel" = "لغو";
+
+// MARK: - Widget strings
+"Newest" = "جدیدترین";
+"New Food" = "غدای جدید";
+"Show new foods in a widget" = "مشاهده غدا های جدید در یک ویجت";
+"Colories: 123" = "کالری: ۱۲۳";
+
+// MARK: - Lorem ipsum in Persian
+"lorem.text" = "لورم ایپسوم یک متن ساختگی است که طراحان در طرح های خود زمانی که نیاز دارند یک متن ساختگی داشته باشند استفاده میکنند بنابرین شما میتوانید از لورم ایپسوم در متن هایی که فقط میخواهید پر شوند یا ساختگی باشند و یا هر دلیل دیگری از این متن ساختگی استفاده کنید و لذت ببرید. لورم ایپسوم همچنین جند ورژن یعنی تعداد کلمات متفاوتی دارد مثلا با صد کلمه میتوانید یک متن ساختگی داشته باشید.";
+

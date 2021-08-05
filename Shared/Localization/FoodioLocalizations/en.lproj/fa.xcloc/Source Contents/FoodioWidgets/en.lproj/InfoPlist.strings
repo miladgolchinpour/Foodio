@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "FoodioWidgets";
+/* Bundle name */
+"CFBundleName" = "FoodioWidgetsExtension";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2021 Milad Golchinpour. All rights reserved.";

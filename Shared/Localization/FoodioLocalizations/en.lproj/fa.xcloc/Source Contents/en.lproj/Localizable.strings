@@ -1,0 +1,162 @@
+/* No comment provided by engineer. */
+"%.1f" = "%.1f";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%lld%%" = "%lld%%";
+
+/* No comment provided by engineer. */
+"$%lld" = "$%lld";
+
+/* No comment provided by engineer. */
+"add a tip?" = "add a tip?";
+
+/* No comment provided by engineer. */
+"Added!" = "Added!";
+
+/* No comment provided by engineer. */
+"Available" = "Available";
+
+/* No comment provided by engineer. */
+"Back" = "Back";
+
+/* No comment provided by engineer. */
+"Back to app" = "Back to app";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cart is empty!" = "Cart is empty!";
+
+/* No comment provided by engineer. */
+"Checkout" = "Checkout";
+
+/* No comment provided by engineer. */
+"City" = "City";
+
+/* No comment provided by engineer. */
+"Colories" = "Colories";
+
+/* No comment provided by engineer. */
+"Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"Delete" = "Delete";
+
+/* No comment provided by engineer. */
+"Delivery Time" = "Delivery Time";
+
+/* No comment provided by engineer. */
+"Description" = "Description";
+
+/* No comment provided by engineer. */
+"detail" = "detail";
+
+/* No comment provided by engineer. */
+"devlivery time" = "devlivery time";
+
+/* No comment provided by engineer. */
+"drinks" = "drinks";
+
+/* No comment provided by engineer. */
+"Drinks" = "Drinks";
+
+/* No comment provided by engineer. */
+"DRINKS" = "DRINKS";
+
+/* No comment provided by engineer. */
+"Favorites" = "Favorites";
+
+/* No comment provided by engineer. */
+"Food Nutrition" = "Food Nutrition";
+
+/* No comment provided by engineer. */
+"Foodio" = "Foodio";
+
+/* No comment provided by engineer. */
+"Foodio App" = "Foodio App";
+
+/* No comment provided by engineer. */
+"foods" = "foods";
+
+/* No comment provided by engineer. */
+"Foods" = "Foods";
+
+/* No comment provided by engineer. */
+"FOODS" = "FOODS";
+
+/* No comment provided by engineer. */
+"Full name" = "Full name";
+
+/* No comment provided by engineer. */
+"History" = "History";
+
+/* No comment provided by engineer. */
+"Information" = "Information";
+
+/* No comment provided by engineer. */
+"Let's add items..." = "Let's add items...";
+
+/* No comment provided by engineer. */
+"New Features" = "New Features";
+
+/* No comment provided by engineer. */
+"No favorite item founded!" = "No favorite item founded!";
+
+/* No comment provided by engineer. */
+"No orders recorded" = "No orders recorded";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Order" = "Order";
+
+/* No comment provided by engineer. */
+"Order code : %@" = "Order code : %@";
+
+/* No comment provided by engineer. */
+"Order date : %@" = "Order date : %@";
+
+/* No comment provided by engineer. */
+"Order Now" = "Order Now";
+
+/* No comment provided by engineer. */
+"Review" = "Review";
+
+/* No comment provided by engineer. */
+"Show History" = "Show History";
+
+/* No comment provided by engineer. */
+"Street Address" = "Street Address";
+
+/* No comment provided by engineer. */
+"Submit" = "Submit";
+
+/* No comment provided by engineer. */
+"Successfuly added to cart" = "Successfuly added to cart";
+
+/* No comment provided by engineer. */
+"Take few minutes and deliver items..." = "Take few minutes and deliver items...";
+
+/* No comment provided by engineer. */
+"tip" = "tip";
+
+/* No comment provided by engineer. */
+"Total: $%.2f" = "Total: $%.2f";
+
+/* No comment provided by engineer. */
+"Unvailable" = "Unvailable";
+
+/* No comment provided by engineer. */
+"Welcome to" = "Welcome to";
+
+/* No comment provided by engineer. */
+"Your Order\nSuccessfully Submited" = "Your Order\nSuccessfully Submited";
+
+/* No comment provided by engineer. */
+"Zip code" = "Zip code";
+
