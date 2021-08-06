@@ -74,7 +74,7 @@ struct CheckoutView: View {
                 
                 Section {
                     Text(
-                        locale == .init(identifier: "en") ?
+                        locale.identifier == "en" ?
                         "Total: $\(total, specifier: "%.2f")" :
                             "جمع پرداختی: \(total, specifier: "%.2f") دلار"
                     )
