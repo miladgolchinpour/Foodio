@@ -18,8 +18,7 @@ struct FavoriteFoods: View {
             }.frame(maxWidth: .infinity, alignment: .leading).padding()) {
                 ForEach(foods) { food in
                     NavigationLink(destination: FoodDetail(food: food)) {
-                        FoodItem(food: food)
-                            .itemStyle(food.color)
+                        FoodItem(food: food).itemStyle(food.color)
                     }
                     .buttonStyle(.plain)
                 }

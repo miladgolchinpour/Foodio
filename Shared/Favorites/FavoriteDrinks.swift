@@ -18,8 +18,7 @@ struct FavoriteDrinks: View {
             }.frame(maxWidth: .infinity, alignment: .leading).padding(.top, 30).padding()) {
                 ForEach(drinks) { drink in
                     NavigationLink(destination: DrinkDetail(drink: drink)) {
-                        DrinkItem(drink: drink)
-                            .itemStyle(drink.color)
+                        DrinkItem(drink: drink).itemStyle(drink.color)
                     }
                     .buttonStyle(.plain)
                 }
