@@ -12,7 +12,7 @@ struct FavoriteFoods: View {
     var foods: [Food]
     
     var body: some View {
-        if foods.isEmpty {
+        if !foods.isEmpty {
             Section(header: HStack{
                 Text("FOODS").font(.headline)
             }.frame(maxWidth: .infinity, alignment: .leading).padding()) {
