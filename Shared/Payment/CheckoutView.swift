@@ -76,7 +76,7 @@ struct CheckoutView: View {
                     Text(
                         locale.identifier == "en" ?
                         "Total: $\(total, specifier: "%.2f")" :
-                            "جمع پرداختی: \(total, specifier: "%.2f") دلار"
+                    "جمع پرداختی: \(total, specifier: "%.2f") دلار"
                     )
                     .font(.title2)
                     .bold()
