@@ -9,8 +9,8 @@
 /* Begin PBXBuildFile section */
 		112CDBEB26B0453B005164F2 /* AddedToCartAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBEA26B0453B005164F2 /* AddedToCartAlert.swift */; };
 		112CDBEC26B0453B005164F2 /* AddedToCartAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBEA26B0453B005164F2 /* AddedToCartAlert.swift */; };
-		112CDBEE26B075B7005164F2 /* FoodAvailavlePriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBED26B075B7005164F2 /* FoodAvailavlePriceView.swift */; };
-		112CDBEF26B075B7005164F2 /* FoodAvailavlePriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBED26B075B7005164F2 /* FoodAvailavlePriceView.swift */; };
+		112CDBEE26B075B7005164F2 /* FoodAvailablePriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBED26B075B7005164F2 /* FoodAvailablePriceView.swift */; };
+		112CDBEF26B075B7005164F2 /* FoodAvailablePriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBED26B075B7005164F2 /* FoodAvailablePriceView.swift */; };
 		112CDBF126B07665005164F2 /* DrinkAvailablePriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBF026B07665005164F2 /* DrinkAvailablePriceView.swift */; };
 		112CDBF226B07665005164F2 /* DrinkAvailablePriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112CDBF026B07665005164F2 /* DrinkAvailablePriceView.swift */; };
 		114CB9E626B02C390069FDC6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 114CB9EA26B02C390069FDC6 /* Localizable.strings */; };
@@ -160,7 +160,7 @@
 /* Begin PBXFileReference section */
 		111746D226AD9F0700BBF041 /* Foodio.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Foodio.entitlements; sourceTree = "<group>"; };
 		112CDBEA26B0453B005164F2 /* AddedToCartAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddedToCartAlert.swift; sourceTree = "<group>"; };
-		112CDBED26B075B7005164F2 /* FoodAvailavlePriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodAvailavlePriceView.swift; sourceTree = "<group>"; };
+		112CDBED26B075B7005164F2 /* FoodAvailablePriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodAvailablePriceView.swift; sourceTree = "<group>"; };
 		112CDBF026B07665005164F2 /* DrinkAvailablePriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkAvailablePriceView.swift; sourceTree = "<group>"; };
 		114CB9E926B02C390069FDC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		114CB9EB26B02C3B0069FDC6 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -537,7 +537,7 @@
 			children = (
 				11A63D2F2683DC130049CEB8 /* FoodCard.swift */,
 				11A63D362683F0D50049CEB8 /* FoodNutritionRow.swift */,
-				112CDBED26B075B7005164F2 /* FoodAvailavlePriceView.swift */,
+				112CDBED26B075B7005164F2 /* FoodAvailablePriceView.swift */,
 			);
 			path = Food;
 			sourceTree = "<group>";
@@ -773,7 +773,7 @@
 				1168A79726834A1A00851358 /* Sidebar.swift in Sources */,
 				114D9CCD2684DFFE003BE91B /* FavoriteItems.swift in Sources */,
 				112CDBEB26B0453B005164F2 /* AddedToCartAlert.swift in Sources */,
-				112CDBEE26B075B7005164F2 /* FoodAvailavlePriceView.swift in Sources */,
+				112CDBEE26B075B7005164F2 /* FoodAvailablePriceView.swift in Sources */,
 				1168A77E268348A300851358 /* FoodioApp.swift in Sources */,
 				114D9CC22684D2F7003BE91B /* DrinkItem.swift in Sources */,
 				114D9CC92684D6E6003BE91B /* DrinkDescription.swift in Sources */,
@@ -845,7 +845,7 @@
 				114D9C9E2684A240003BE91B /* Features.swift in Sources */,
 				11A63D312683DC130049CEB8 /* FoodCard.swift in Sources */,
 				112CDBF226B07665005164F2 /* DrinkAvailablePriceView.swift in Sources */,
-				112CDBEF26B075B7005164F2 /* FoodAvailavlePriceView.swift in Sources */,
+				112CDBEF26B075B7005164F2 /* FoodAvailablePriceView.swift in Sources */,
 				11A63D382683F0D50049CEB8 /* FoodNutritionRow.swift in Sources */,
 				114D9CB72684CC16003BE91B /* FavoriteButton.swift in Sources */,
 				114D9CEB26852D88003BE91B /* Order.swift in Sources */,

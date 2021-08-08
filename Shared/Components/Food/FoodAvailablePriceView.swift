@@ -1,5 +1,5 @@
 //
-//  FoodAvailavlePriceView.swift
+//  FoodAvailablePriceView.swift
 //  Foodio
 //
 //  Created by Milad Golchinpour on 7/27/21.
@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct FoodAvailavlePriceView: View {
+struct FoodAvailablePriceView: View {
     var food: Food
     
     @Environment(\.locale) var locale
