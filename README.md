@@ -1,6 +1,6 @@
 # Foodio
 Simple Food and Drink Ordering app with localization\
-In this app uesr can order a food, drink or both in a minute\
+In this app user can order a food, drink or both in a minute\
 I focused on Localization in this project\
 Application available in 2 English and Persian languages!
 
