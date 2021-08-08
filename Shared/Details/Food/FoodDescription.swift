@@ -37,7 +37,7 @@ struct FoodDescription: View {
         }
         .padding()
         .alert(isPresented: $addedToCart) {
-            Added.adddedToCartAlert
+            Added.addedToCartAlert
         }
     }
 }

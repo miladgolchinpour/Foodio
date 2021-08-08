@@ -39,7 +39,7 @@ struct DrinkDescription: View {
         }
         .padding()
         .alert(isPresented: $addedToCart) {
-            Added.adddedToCartAlert
+            Added.addedToCartAlert
         }
     }
 }

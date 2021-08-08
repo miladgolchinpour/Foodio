@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct Added {
-    static var adddedToCartAlert: Alert {
+    static var addedToCartAlert: Alert {
         Alert(title: Text("Added!"), message: Text("Successfuly added to cart"), dismissButton: .cancel(Text("Back")))
     }
 }

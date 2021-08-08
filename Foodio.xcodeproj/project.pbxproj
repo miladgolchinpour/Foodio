@@ -225,6 +225,7 @@
 		11E6324B26BA0DBA00B93A06 /* FavoriteFoods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteFoods.swift; sourceTree = "<group>"; };
 		11E6324E26BA0E1700B93A06 /* FavoriteDrinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteDrinks.swift; sourceTree = "<group>"; };
 		11E6325126BA129600B93A06 /* OrderList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderList.swift; sourceTree = "<group>"; };
+		11FFD65F26C048C2007E85A3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -384,6 +385,7 @@
 		1168A756268348A100851358 = {
 			isa = PBXGroup;
 			children = (
+				11FFD65F26C048C2007E85A3 /* README.md */,
 				111746D226AD9F0700BBF041 /* Foodio.entitlements */,
 				1168A793268348C100851358 /* Foodio--macOS--Info.plist */,
 				1168A792268348B100851358 /* Foodio--iOS--Info.plist */,
