@@ -20,7 +20,7 @@ struct DrinkAvailablePriceView: View {
                 .bold()
                 .foregroundColor(.white)
             
-            Text(drink.isAvailable ? "Available" : "Unvailable")
+            Text(drink.isAvailable ? "Available" : "Unavailable")
                 .italic()
                 .padding(14)
                 .background(.black.opacity(0.3))

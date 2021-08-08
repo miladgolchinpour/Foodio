@@ -49,7 +49,7 @@ struct FoodCard: View {
                 
                 foodCardText(food!.name)
                 
-                FoodAvailavlePriceView(food: food!)
+                FoodAvailablePriceView(food: food!)
             }
             
             Spacer()
